@@ -1,0 +1,93 @@
+body{
+  font-family: sans-serif;
+}
+#about {
+  
+position: absolute;
+    top: 80px;
+    right: 35%;
+    width: 450px;
+    height: 100px;
+    background-color: #ffffff;
+    padding: 20px;
+    margin-top: 20px;
+border-radius: 5px;
+}
+
+body {
+margin: 0%;
+background-color: #f2f2f2;
+
+
+}
+
+#learn {
+margin: 30px;
+position: absolute;
+    top: 10px;
+    right: 35%;
+    width: 300px;
+    height: 0px;
+
+}
+
+.user {
+  background-color: #ffffff;
+  position: absolute;
+  top: 250px;
+  right: 471px;
+ width: 470px;
+ padding-left: 20px;
+ padding-bottom: 30px;
+ margin-bottom: 0px;
+border-radius: 5px;
+}
+
+.link {
+position: absolute;
+    top: 160px;
+    right: 22%;
+    width: 430px;
+    height: 100px;
+    padding: 20px;
+    margin-top: 20px;
+
+ 
+}
+
+.sec  {
+   background-color: #ffffff;
+  position: absolute;
+  top: 310px;
+ right: 471px;
+ width: 470px;
+ padding-left: 20px;
+ margin-top: 25px;  
+ border-radius: 5px;  
+
+}
+
+footer {
+padding: 20px 200px;
+position: absolute;
+top: 720px;
+background-color: #ffffff;
+width: 70.3%;
+height: 60px;
+}
+
+.TERMS #one {
+position: absolute;
+left: 600px;
+bottom: 40px;
+
+}
+
+.TERMS #two {
+position: absolute;
+right: 150px;
+bottom: 40px;
+
+}
+
+
